@@ -1,0 +1,142 @@
+LILIS S.A.                                                                                                       17/09/24 Hoja     1
+
+                                                     LISTA DE PRECIOS NRO. 9.999
+
+
+ -------------------------------------------------------------------------------------------------------------------------------
+:   Artículo                Descripción                           :Uni:     Precio    :Importe IVA :  Imp. Int.  : Precio Final :
+ -------------------------------------------------------------------------------------------------------------------------------
+
+** Ordenado por código artículo **
+ -------------------------------------------------------------------------------------------------------------------------------
+: 01001       TURBINA FLOWMIR CON BOQUILLA                         UNI       1.650,00       173,25                     1.823,25 :
+: 01002       PEAK FLOW PERSONAL BEST ADULTOS                      UNI         356,83        74,93                       431,76 :
+: 01003       PEAK FLOW PERSONAL BEST PEDIATRICO                   UNI         266,48        55,96                       322,44 :
+: 01006       ASPIRADOR QUIRURGICO 10000 CC                        UNI   1.014.903,00   213.129,63                 1.228.032,63 :
+: 01007       AEROCAMARA ADULTO OPTICHAMBER IMP.                   UNI          66,60         6,99                        73,59 :
+: 01009       PEAK FLOW 100                                        UNI     232.487,34    24.411,17                   256.898,51 :
+: 01010       FILTRO ANTIBACTERIAL P/ESPIROMETRO                   UNI       1.966,80       413,03                     2.379,83 :
+: 01012       AEROCAMARA SILFAB ADULTO CON MASCARA                 UNI       6.832,00       717,36                     7.549,36 :
+: 01014       AEROCAMARA SILFAB PEDIATRICA CON MASCARA             UNI       6.568,80       689,72                     7.258,52 :
+: 01016       AEROCAMARA SILFAB ADULTO SIN MASCARA                 UNI       5.256,00     1.103,76                     6.359,76 :
+: 01017       ASPIRADOR TUWELL ELECTRICO 7E/A                      UNI      90.966,84    19.103,04                   110.069,88 :
+: 01019       PEAK FLOW VITALOGRAPH ADULTO                         UNI          74,95        15,74                        90,69 :
+: 01020       AEROCAMARA AEROCHAMBER ADULTA ACH05-G                UNI      29.480,00     3.095,40                    32.575,40 :
+: 01021       AEROCAMARA AEROCHAMBER PEDIATRICA ACH06              UNI      27.258,00     2.862,09                    30.120,09 :
+: 01022       AEROCAMARA AEROCHAMBER NEONATAL ACH07                UNI      27.258,00     2.862,09                    30.120,09 :
+: 01024       ASPIRADOR HAND MANUAL P/EMERGENCIA 17574             UNI     153.566,39    32.248,94                   185.815,33 :
+: 01025       ASPIRADOR SILFAB 5000 CC                             UNI     366.087,00    76.878,27                   442.965,27 :
+: 01027       AEROCAMARA AEROCHAMBER ADULTA PEQACH05-C             UNI      29.480,00     3.095,40                    32.575,40 :
+: 01029       EJERCITADOR RESPIRATORIO TRIBALL                     UNI      14.817,00     1.555,79                    16.372,79 :
+: 01031       ASPIRADOR MANUAL EMERGENCY VAC 198                   UNI     100.492,69    21.103,46                   121.596,15 :
+: 01032       PEAK FLOW METER ADULTO                               UNI      20.855,00     4.379,55                    25.234,55 :
+: 02106       CAJA PERFEX 22*12*5                                  UNI         275,51        57,86                       333,37 :
+: 02127       CAJA DE ACERO PERFORADA 50*20*10                     UNI      77.000,00    16.170,00                    93.170,00 :
+: 02132       RIÑONERA AC.INOX 26*13*5  KR-504                     UNI      26.070,00     5.474,70                    31.544,70 :
+: 02141       TAMBOR 10*10 PERFEX                                              492,47       103,42                       595,89 :
+: 02142       TAMBOR 12*10                                         UNI      45.890,00     9.636,90                    55.526,90 :
+: 02201       CAJA REDONDA 12 X 13                                 UNI       7.296,00     1.532,16                     8.828,16 :
+: 02202       CAJA FAETA 28*14*6/7                                          60.300,00    12.663,00                    72.963,00 :
+: 02203       CAJA FAETA 32*12*6/7                                          68.080,00    14.296,80                    82.376,80 :
+: 02204       CAJA FAETA 20*10*4                                            26.160,00     5.493,60                    31.653,60 :
+: 02205       CAJA ACERO IMPORT. 17*9*4            (5)             UNI       4.548,00       955,08                     5.503,08 :
+: 02206       CAJA FAETA 22*12*5                                   UNI      32.640,00     6.854,40                    39.494,40 :
+: 02208       CAJA FAETA 34*16*7                                   UNI      75.730,00    15.903,30                    91.633,30 :
+: 02210       TAMBOR 12*10 EGEO                                                565,82       118,82                       684,64 :
+: 02211       CAJA FAETA 40*20*8                                           237.200,00    49.812,00                   287.012,00 :
+: 02214       BANDEJA LISA FAETA                                   UNI      15.700,00     3.297,00                    18.997,00 :
+: 02215       BANDEJA ACANALADA FAETA                                       15.700,00     3.297,00                    18.997,00 :
+: 02216       BOLS DE ACERO INOXIDABLE                             UNI       3.225,86       677,43                     3.903,29 :
+: 02218       CAJA FAETA 40*20*10                                          246.910,00    51.851,10                   298.761,10 :
+: 02221       CAJA FAETA 50*20*10                                  UNI     279.260,00    58.644,60                   337.904,60 :
+: 02222       CAJA FAETA 40*30*10                                          288.960,00    60.681,60                   349.641,60 :
+: 02223       CAJA FAETA 25*12*5/6                                 UNI      36.330,00     7.629,30                    43.959,30 :
+: 02504       CAJA ACERO 20*09*04                                           19.955,32     4.190,62                    24.145,94 :
+: 03106       AG.25 ESPINAL PTA.LAPIZ PHOENIX                                4.645,13       975,48                     5.620,61 :
+: 04001       MANDRIL CHICO                                        UNI           0,55         0,12                         0,67 :
+: 04017       TENS PERSONAL EASYGYM PLUS                           UNI     118.741,00    24.935,61                   143.676,61 :
+: 04021       ELECTRODO GOMA P/TENS PAR REDONDO 65 MM                       10.446,00     2.193,66                    12.639,66 :
+: 04025       ELECTRODO P/TENS 50*50 PAR                                     3.208,00       673,68                     3.881,68 :
+: 05005       AG.PUNCION LUMBAR ESPINAL 19                                     835,01        87,68                       922,69 :
+: 05012       AG.BIOPSIA CHIBA 18                                  UNI          39,67         8,33                        48,00 :
+: 05013       AG.TRUCUT 14 15 / 16 20 CM PARA MAMAS                UNI          90,00        18,90                       108,90 :
+: 05015       AG.BIOPSIA HI 15/9                                                63,63        13,36                        76,99 :
+: 05016       AG.BIOPSIA HI 16/9                                               106,61        22,39                       129,00 :
+: 05017       AG.BIOPSIA FSC 14/20 P/DISPARADOR                    UNI         136,00        28,56                       164,56 :
+: 05018       AG.BIOPSIA SC 14/16                                  UNI         247,93        52,07                       300,00 :
+: 05019       AG.BIOPSIA BM 8/10 RENALIFE                                      119,83        25,16                       144,99 :
+: 05020       AG.BIOPSIA BM 11/10                                  UNI         131,06        27,52                       158,58 :
+: 05021       AG.BIOPSIA BM 13/10                                              132,23        27,77                       160,00 :
+ -------------------------------------------------------------------------------------------------------------------------------
+
+
+LILIS S.A.                                                                                                       17/09/24 Hoja     2
+
+                                                     LISTA DE PRECIOS NRO. 9.999
+
+
+ -------------------------------------------------------------------------------------------------------------------------------
+:   Artículo                Descripción                           :Uni:     Precio    :Importe IVA :  Imp. Int.  : Precio Final :
+ -------------------------------------------------------------------------------------------------------------------------------
+
+** Ordenado por código artículo **
+ -------------------------------------------------------------------------------------------------------------------------------
+: 05022       AG.BIOPSIA FSC 16/15 P/DISPARADOR                    UNI         247,93        52,07                       300,00 :
+: 05023       AG.BIOPSIA TM 18/15 E                                             37,20         7,81                        45,01 :
+: 05024       AG.BIOPSIA TM 21/15                                               37,20         7,81                        45,01 :
+: 05025       AG.BIOPSIA BL 21/9                                                62,38        13,10                        75,48 :
+: 05026       AG.BIOPSIA TZ 18/15                                  UNI         140,49        29,50                       169,99 :
+: 05027       AG.BIOPSIA TZ 15/20                                              132,23        27,77                       160,00 :
+: 05028       AG.BIOPSIA PA 19/17                                               37,19         7,81                        45,00 :
+: 05029       AG.BIOPSIA PA 22/15                                               37,19         7,81                        45,00 :
+: 05030       AG.BIOPSIA PA 23/15                                               45,00         9,45                        54,45 :
+: 05031       AG.BIOPSIA FSC 16/25 P/DISPARADOR                    UNI         140,50        29,51                       170,01 :
+: 05033       AG.BIOPSIA AM 15/28                                  UNI          82,64        17,35                        99,99 :
+: 05034       AG.BIOPSIA TRUCORE I 16G *16CM                                    61,10        12,83                        73,93 :
+: 05035       AG.BIOPSIA BCT 16/15                                              52,89        11,11                        64,00 :
+: 05036       AG.BIOPSIA TX 18/15                                              132,23        27,77                       160,00 :
+: 05037       AG.BIOPSIA TM 16/16                                               52,89        11,11                        64,00 :
+: 05038       AG.BIOPSIA BM 8/15                                               206,61        43,39                       250,00 :
+: 05040       AG.BIOPSIA PA 18/17                                               37,19         7,81                        45,00 :
+: 05041       AG.BIOPSIA HI 16/15                                               63,78        13,39                        77,17 :
+: 05042       AG.BIOPSIA TR 14/20                                               46,65         9,80                        56,45 :
+: 05043       AG.BIOPSIA TR 16/15                                              107,44        22,56                       130,00 :
+: 05044       AG.BIOPSIA TR 16/10                                  UNI         165,29        34,71                       200,00 :
+: 05045       AG.BIOPSIA TR 14/16                                  UNI         177,68        37,31                       214,99 :
+: 05046       AG.BIOPSIA TR 18/25                                              252,07        52,93                       305,00 :
+: 05047       AG.BIOPSIA TZ 18/20                                              297,52        62,48                       360,00 :
+: 05048       AG.BIOPSIA PA 21/15                                               66,12        13,89                        80,01 :
+: 05050       AG.BIOPSIA TZ 15/15                                              136,36        28,64                       165,00 :
+: 05053       AG.BIOPSIA PA 22/11                                               37,19         7,81                        45,00 :
+: 05054       AG.BIOPSIA FSC 18/20                                 UNI          90,90        19,09                       109,99 :
+: 05056       AG.BIOPSIA TR 16/20                                               41,32         8,68                        50,00 :
+: 05057       AG.BIOPSIA HI 16/20                                               57,85        12,15                        70,00 :
+: 05058       AG.BIOPSIA TM 16/20                                               56,59        11,88                        68,47 :
+: 05059       AG.BIOPSIA PA 18/15                                               49,59        10,41                        60,00 :
+: 05060       AG.BIOPSIA PA 20/15                                               40,24         8,45                        48,69 :
+: 05061       AG.BIOPSIA TR 14/10                                               50,91        10,69                        61,60 :
+: 05062       AG.BIOPSIA BM 11/15                                              111,57        23,43                       135,00 :
+: 05063       AG.BIOPSIA TX 18/30                                              112,44        23,61                       136,05 :
+: 05064       AG.BIOPSIA TR 18/16                                  UNI          74,38        15,62                        90,00 :
+: 05066       AG.BIOPSIA SC 18/25                                              181,82        38,18                       220,00 :
+: 05067       AG.BIOPSIA TR 16/25                                               41,32         8,68                        50,00 :
+: 05068       AG.BIOPSIA PA 18/20                                               37,19         7,81                        45,00 :
+: 05070       AG.BIOPSIA TM 14/20                                  UNI          78,51        16,49                        95,00 :
+: 05071       AG.BIOPSIA TM 18/20 C                                             65,29        13,71                        79,00 :
+: 05072       AG.BIOPSIA TM 14/15 C                                             66,12        13,89                        80,01 :
+: 05073       AG.PUNCION LUMBAR ESPINAL 19 TERUMO                  UNI          34,95         7,34                        42,29 :
+: 05074       AG.BIOPSIA TZ 18/25                                              119,83        25,16                       144,99 :
+: 05076       AG.BIOPSIA TM 16/11                                               69,48        14,59                        84,07 :
+: 05077       AG.BIOPSIA TZ 14/15                                              148,76        31,24                       180,00 :
+: 05078       AG.BIOPSIA BEN 8/10                                  UNI          95,04        19,96                       115,00 :
+: 05081       AG.PUNCION LUMBAR ESPINAL 18                                     835,01        87,68                       922,69 :
+: 05082       AG.PUNCION LUMBAR ESPINAL 20 PAINLES/SUR                         835,01        87,68                       922,69 :
+: 05083       AG.PUNCION LUMBAR ESPINAL 21 TERUMO                  UNI          34,95         7,34                        42,29 :
+: 05085       AG.PUNCION LUMBAR ESPINAL 22 PAINLES/SUR                       1.128,87       237,06                     1.365,93 :
+: 05087       AG.PUNCION LUMBAR ESPINAL 25 TERUMO                  UNI          34,95         7,34                        42,29 :
+: 05090       AG.PUNCION LUMBAR ESPINAL 25 KAUTION/MCM                         835,01       175,35                     1.010,36 :
+: 05091       AG.PUNCION LUMBAR ESPINAL 23 MCM/ALLPRO                        1.128,87       237,06                     1.365,93 :
+: 05092       AG.BIOPSIA TM 14/11 E                                             66,12        13,89                        80,01 :
+: 05094       SET DOBLE PIG TAIL 6F 26/2 A/A                       UNI         173,55        36,45                       210,00 :
+: 05095       SET PUNCION SUPRAPUB                                 UNI         192,23        40,37                       232,60 :
+ -------------------------------------------------------------------------------------------------------------------------------
